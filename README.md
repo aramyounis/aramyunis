@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aramyunis
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning NodeJs - ExpressJs - React - MangoDB
+- 🌱 I’m currently working and learning NodeJs - ExpressJs - React - MangoDB
 
 Cancel changes
